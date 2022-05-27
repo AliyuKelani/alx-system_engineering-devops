@@ -1,2 +1,2 @@
 #!/bin/bash
-mv -t /temp/my_first_directory /tmp/betty
+mv -t /tmp/my_first_directory /tmp/betty
