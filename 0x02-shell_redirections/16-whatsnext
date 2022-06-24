@@ -1,2 +1,3 @@
 #!/bin/bash
-grep "root\n\n\n" /etc/passwd
+tail -n4 /etc/passwd|head -n1| grep "root"
+
