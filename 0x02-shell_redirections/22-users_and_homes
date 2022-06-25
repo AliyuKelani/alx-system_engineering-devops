@@ -1,2 +1,2 @@
 #!/bin/bash
-cut -f 1,6 -d : | sort
+sort | cut -f 1,6 -d ":"
